@@ -1,0 +1,18 @@
+.picture {
+  width: 100px;
+}
+
+.princepic {
+  float: left;
+}
+
+.sidebar {
+  width: 50%;
+  float: right;
+  background-color: green;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
